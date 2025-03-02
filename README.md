@@ -9,6 +9,6 @@ I tested the app using the Android Emulator in Android Studio. Testing was neces
 
 One challenge was making sure the app still worked without SMS permission. I had to adjust the code so the app would only try to send messages if permission was granted. This solution made the app more reliable and gave users more control over their privacy.
 
-The database features were the strongest part of the app. The app saves weight entries and keeps them available even after closing the app. This showed how to use SQLite to store data in a persistent way. The app’s ability to update and delete entries also demonstrated how to manage data efficiently.
+I was particularly successful in demonstrating my knowledge, skills, and experience in implementing the database features of the app. The SQLite database allows users to save weight entries, which remain accessible even after closing the app. This showcased my ability to manage data persistence effectively. Additionally, I successfully implemented functionality to update and delete entries, ensuring efficient data management. This part of the project highlighted my skills in working with databases, handling user input, and maintaining a smooth user experience while managing stored data.
 
 This project gave me a better understanding of mobile app development. It showed how to connect different parts of an app, from user input to database storage. It also helped me learn how to handle permissions and test for different scenarios.
