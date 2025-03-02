@@ -1,4 +1,4 @@
-# cs360-weight-tracker
+# CS360-Weight-Tracker
 The Weight Tracker app helps users log their daily weight and monitor progress. The goal was to create a simple app that anyone could use to track weight changes over time. The app stores user data in a database and allows users to add, update, and delete weight entries. It also sends SMS notifications if users allow it.
 
 The app’s design focused on making the interface clean and easy to use. The login screen lets users create an account or log in with existing credentials. The dashboard screen displays weight entries in a list, making it simple to view past records. Each entry has options to edit or delete it. The SMS screen asks for permission to send notifications, but the app still works without this feature if the user denies permission. These features were built to make the app useful without making it complicated.
